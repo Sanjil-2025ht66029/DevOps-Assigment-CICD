@@ -8,7 +8,7 @@ app = Flask(__name__)
 # Define a route for the root URL ("/")
 @app.route("/")
 def hello_world():
-    return "<p>Hello, World!</p>"
+    return "<p><h1>Hello, Welcome to the World of Gym and Fitness !!!</h1></p>"
 
 class FitnessTrackerApp:
     def __init__(self, master):
