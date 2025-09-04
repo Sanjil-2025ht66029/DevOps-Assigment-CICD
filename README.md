@@ -1,9 +1,9 @@
 # DevOps-Assigment-CICD
 Introduction to DevOps Assignment.
 
-Purpose of this repo is to demostrate the usage of Github Version Control, Github Actions CICD, Docker, DockerHub and Unit Test using PyTest Python Framework
+Purpose of this repo is to demonstrate the usage of Github Version Control, Github Actions CICD, Docker, DockerHub and Unit Test using PyTest Python Framework.
 
-This is a Flask app for Gym Fitness.
+This is a Flask app integrated with GitHub Actions CICD for ACEest Gym Fitness.
 
 ### GitHub Actions CICD Workflow
 Github Actions CI is triggered when the code is pushed into the main branch.
